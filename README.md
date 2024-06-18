@@ -14,5 +14,4 @@ This project calculates simple to advanced **percentage** calculations and is fo
 <br>
 
 ![App Photo](App-Photo.png)
-
 ![App Photo 2](App-Photo-2.png)
